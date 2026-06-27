@@ -1,0 +1,6 @@
+{
+  "name": "Velora Grand",
+  "description": "A minimalist travel booking hero section mimicking Airbnb search design with high-quality landscape imagery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
